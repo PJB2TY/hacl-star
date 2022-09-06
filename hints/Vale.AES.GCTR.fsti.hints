@@ -22,7 +22,7 @@
         "typing_Vale.Def.Words_s.__proj__Mkfour__item__lo0"
       ],
       0,
-      "c39e3d5203c4f36db149c14463a512ad"
+      "b5ca16c3d0ccc221a4393451cf0124ba"
     ],
     [
       "Vale.AES.GCTR.partial_seq_agreement",
@@ -34,7 +34,7 @@
         "refinement_interpretation_Tm_refine_21b1463d18ebbb1eb97818a4f59e4000"
       ],
       0,
-      "e5aa45a0c36d204f713fd600f53bad0e"
+      "332441e65452bb4a3e97ceb5737eb528"
     ],
     [
       "Vale.AES.GCTR.gctr_encrypt_block_offset",
@@ -47,7 +47,7 @@
         "refinement_interpretation_Tm_refine_2de20c066034c13bf76e9c0b94f4806c"
       ],
       0,
-      "3877e6ae7141d1e0a3e09ec854737412"
+      "b7bd41f94a1757ff4b3d5691a28b6e80"
     ],
     [
       "Vale.AES.GCTR.gctr_encrypt_empty",
@@ -78,7 +78,7 @@
         "typing_Vale.Def.Types_s.le_seq_quad32_to_bytes"
       ],
       0,
-      "b8346d31e242a139dfe640974023fc62"
+      "e3805f1a6c7644db856a282dc0eb5b6a"
     ],
     [
       "Vale.AES.GCTR.aes_encrypt_BE",
@@ -87,7 +87,7 @@
       0,
       [ "@query" ],
       0,
-      "d8a4f49416a81e299e7b9a3c0a508cbc"
+      "006f8b5e171f828c94b1c4cc03147989"
     ],
     [
       "Vale.AES.GCTR.gctr_registers_def",
@@ -96,16 +96,7 @@
       0,
       [ "@query" ],
       0,
-      "e41f4426c316d057275d5414c44a7a8f"
-    ],
-    [
-      "Vale.AES.GCTR.gctr_registers_reveal",
-      1,
-      1,
-      0,
-      [ "@query" ],
-      0,
-      "1f88c0a7015188c93ee27b7c7c21169c"
+      "94c25bbde201b750bf7202401c2dac93"
     ],
     [
       "Vale.AES.GCTR.gctr_partial_def",
@@ -117,16 +108,7 @@
         "refinement_interpretation_Tm_refine_21b1463d18ebbb1eb97818a4f59e4000"
       ],
       0,
-      "ce06ac7254d0bf959cb5d8e9bc6dc90c"
-    ],
-    [
-      "Vale.AES.GCTR.gctr_partial_reveal",
-      1,
-      1,
-      0,
-      [ "@query" ],
-      0,
-      "01317f2c3a8fe6a65a407544f9f38fc8"
+      "67848a66c8e84fb61156a3a6270f2eb8"
     ],
     [
       "Vale.AES.GCTR.lemma_gctr_partial_append",
@@ -164,7 +146,7 @@
         "token_correspondence_Vale.AES.GCTR.gctr_partial"
       ],
       0,
-      "1ba2879bee3027a8db0f7229b1f8ba06"
+      "91a5db9e41a10f1799b9f55b422f291f"
     ],
     [
       "Vale.AES.GCTR.gctr_partial_opaque_ignores_postfix",
@@ -199,7 +181,7 @@
         "token_correspondence_Vale.AES.GCTR.gctr_partial"
       ],
       0,
-      "43f27dbe8708486572d7dd657cc5cfb1"
+      "cf4cd8abb89d1fbe461dda51f8789ee9"
     ],
     [
       "Vale.AES.GCTR.gctr_partial_extend6",
@@ -212,7 +194,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "144760a7721ff169c33d408c679a90c6"
+      "24d21589d69f89106fa12b84f16d8cfb"
     ],
     [
       "Vale.AES.GCTR.gctr_partial_completed",
@@ -224,7 +206,7 @@
         "refinement_interpretation_Tm_refine_875bc59b497b9ffa042c17893a81eee7"
       ],
       0,
-      "d3309adfe59dee09f13c1fda8fc37bee"
+      "ebe41e1ad6483519d223b10ad2518a0d"
     ],
     [
       "Vale.AES.GCTR.gctr_partial_opaque_completed",
@@ -236,7 +218,7 @@
         "refinement_interpretation_Tm_refine_0a01c83ab973b4a82581b120faf300df"
       ],
       0,
-      "948e7b8adf189bf6f08fbae353842b75"
+      "a8f6f41b3ff74c3298c0c2921354be35"
     ],
     [
       "Vale.AES.GCTR.gctr_partial_to_full_basic",
@@ -252,7 +234,7 @@
         "refinement_interpretation_Tm_refine_8dead0850e26d9efe3f92e0415e8b622"
       ],
       0,
-      "090d6ddd746bf4d3d70103146013fda2"
+      "9089cbfd7fc4491a12ba7bd0cf895a1d"
     ],
     [
       "Vale.AES.GCTR.gctr_partial_to_full_advanced",
@@ -278,7 +260,7 @@
         "typing_Vale.Def.Types_s.le_seq_quad32_to_bytes"
       ],
       0,
-      "acf22c97b65ff2e08cfd2b045ec324b9"
+      "88689ba55ec9dc72c517b3769a611e4b"
     ],
     [
       "Vale.AES.GCTR.gctr_encrypt_one_block",
@@ -294,7 +276,7 @@
         "refinement_interpretation_Tm_refine_2de20c066034c13bf76e9c0b94f4806c"
       ],
       0,
-      "720efcdc3ebf948da51233d4c56715b8"
+      "af3d08e148e2b564702cd9f5104460b5"
     ],
     [
       "Vale.AES.GCTR.gctr_bytes_helper",
@@ -318,7 +300,7 @@
         "typing_FStar.Seq.Base.append"
       ],
       0,
-      "a55292486f6c0c5865786e38a0587f6f"
+      "0ed62544386ea8a3fafabc3b71eaec9d"
     ]
   ]
 ]

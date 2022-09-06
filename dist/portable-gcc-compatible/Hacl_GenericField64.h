@@ -35,9 +35,8 @@ extern "C" {
 #include "krml/internal/target.h"
 
 
-#include "Hacl_Bignum256.h"
+#include "Hacl_Bignum.h"
 #include "evercrypt_targetconfig.h"
-#include "libintvector.h"
 /* SNIPPET_START: Hacl_GenericField64_pbn_mont_ctx_u64 */
 
 typedef Hacl_Bignum_MontArithmetic_bn_mont_ctx_u64 *Hacl_GenericField64_pbn_mont_ctx_u64;

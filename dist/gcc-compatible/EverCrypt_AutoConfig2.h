@@ -37,7 +37,6 @@ extern "C" {
 
 
 #include "evercrypt_targetconfig.h"
-#include "libintvector.h"
 bool EverCrypt_AutoConfig2_has_shaext();
 
 bool EverCrypt_AutoConfig2_has_aesni();
@@ -59,16 +58,6 @@ bool EverCrypt_AutoConfig2_has_movbe();
 bool EverCrypt_AutoConfig2_has_rdrand();
 
 bool EverCrypt_AutoConfig2_has_avx512();
-
-KRML_DEPRECATED("")
-
-bool EverCrypt_AutoConfig2_wants_vale();
-
-bool EverCrypt_AutoConfig2_wants_hacl();
-
-bool EverCrypt_AutoConfig2_wants_openssl();
-
-bool EverCrypt_AutoConfig2_wants_bcrypt();
 
 void EverCrypt_AutoConfig2_recall();
 
@@ -97,14 +86,6 @@ void EverCrypt_AutoConfig2_disable_movbe();
 void EverCrypt_AutoConfig2_disable_rdrand();
 
 void EverCrypt_AutoConfig2_disable_avx512();
-
-void EverCrypt_AutoConfig2_disable_vale();
-
-void EverCrypt_AutoConfig2_disable_hacl();
-
-void EverCrypt_AutoConfig2_disable_openssl();
-
-void EverCrypt_AutoConfig2_disable_bcrypt();
 
 bool EverCrypt_AutoConfig2_has_vec128();
 

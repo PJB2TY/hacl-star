@@ -14,25 +14,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "1d016e0a679919482dd2b8f7bc180130"
-    ],
-    [
-      "Vale.Poly1305.Math.lowerUpper128_reveal",
-      1,
-      1,
-      0,
-      [ "@query" ],
-      0,
-      "cac87d72aba82006b510ec3c50c77045"
-    ],
-    [
-      "Vale.Poly1305.Math.lowerUpper192_reveal",
-      1,
-      1,
-      0,
-      [ "@query" ],
-      0,
-      "3227ab976dcfce01665eddaa67e751b8"
+      "04e1d44eb7e90f82ed9e557726a6d645"
     ],
     [
       "Vale.Poly1305.Math.lemma_poly_multiply",
@@ -44,7 +26,7 @@
         "refinement_interpretation_Tm_refine_fada436d46f1798fe5e8566b0d8b1399"
       ],
       0,
-      "cf50bce8815a0704b7080ce73b857cd6"
+      "9ad7690e1bb52bf3119decdcabd0c6ee"
     ],
     [
       "Vale.Poly1305.Math.lemma_poly_reduce",
@@ -57,7 +39,7 @@
         "refinement_interpretation_Tm_refine_3fdd2da50b1b6bf90fc17d7eb0e4018e"
       ],
       0,
-      "a84612dfaf44d216bcd02d7ed2591579"
+      "b810aa7c7677ed955437f9bee24ffce9"
     ],
     [
       "Vale.Poly1305.Math.lemma_bytes_shift_power2",
@@ -66,7 +48,7 @@
       0,
       [ "@query" ],
       0,
-      "9058a81ea15f30f279f5edd0c9ac09f4"
+      "f63a9e6ef1c8cdf2a062df8657e0e4b8"
     ],
     [
       "Vale.Poly1305.Math.lemma_bytes_and_mod",
@@ -82,7 +64,7 @@
         "typing_Vale.Def.Types_s.ishl"
       ],
       0,
-      "cd571890ade8cbbf7458322959acd464"
+      "2d6950101d32eb999daeeddcedb3981d"
     ],
     [
       "Vale.Poly1305.Math.lemma_mod_power2_lo",
@@ -98,7 +80,7 @@
         "refinement_interpretation_Tm_refine_2de20c066034c13bf76e9c0b94f4806c"
       ],
       0,
-      "6eb01e9ec79c9a81a0d6fabaa1299c54"
+      "59bf2aa347efcf511e0f8069fe8a5d0b"
     ],
     [
       "Vale.Poly1305.Math.lemma_power2_add64",
@@ -111,7 +93,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "cfadf6140f6990d71caf9d66f11f70cd"
+      "c3258f53ab36609c8adf95d7a7930916"
     ],
     [
       "Vale.Poly1305.Math.lemma_mod_hi",
@@ -126,7 +108,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "9c7f567965f90917eca517aaf59e1093"
+      "1a92f8c9010842b296f670a414dfd758"
     ],
     [
       "Vale.Poly1305.Math.lemma_poly_demod",
@@ -138,7 +120,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "a72f02418525f501c6158c5c5c5c06f0"
+      "938a237a5b3e4c259cad502a75598db7"
     ]
   ]
 ]

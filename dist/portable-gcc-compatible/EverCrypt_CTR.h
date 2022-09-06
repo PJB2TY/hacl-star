@@ -40,7 +40,6 @@ extern "C" {
 #include "EverCrypt_Error.h"
 #include "EverCrypt_AutoConfig2.h"
 #include "evercrypt_targetconfig.h"
-#include "libintvector.h"
 /* SNIPPET_START: EverCrypt_CTR_state_s */
 
 typedef struct EverCrypt_CTR_state_s_s EverCrypt_CTR_state_s;
@@ -53,6 +52,12 @@ bool
 EverCrypt_CTR_uu___is_State(Spec_Agile_Cipher_cipher_alg a, EverCrypt_CTR_state_s projectee);
 
 /* SNIPPET_END: EverCrypt_CTR_uu___is_State */
+
+/* SNIPPET_START: EverCrypt_CTR_state */
+
+typedef EverCrypt_CTR_state_s *EverCrypt_CTR_state;
+
+/* SNIPPET_END: EverCrypt_CTR_state */
 
 /* SNIPPET_START: EverCrypt_CTR_uint8 */
 

@@ -37,7 +37,6 @@ extern "C" {
 
 #include "Hacl_Spec.h"
 #include "evercrypt_targetconfig.h"
-#include "libintvector.h"
 /* SNIPPET_START: Hacl_Hash_Definitions_word_len */
 
 uint32_t Hacl_Hash_Definitions_word_len(Spec_Hash_Definitions_hash_alg a);
@@ -61,6 +60,12 @@ uint32_t Hacl_Hash_Definitions_hash_word_len(Spec_Hash_Definitions_hash_alg a);
 uint32_t Hacl_Hash_Definitions_hash_len(Spec_Hash_Definitions_hash_alg a);
 
 /* SNIPPET_END: Hacl_Hash_Definitions_hash_len */
+
+/* SNIPPET_START: Hacl_Hash_Definitions_hash_t */
+
+typedef uint8_t *Hacl_Hash_Definitions_hash_t;
+
+/* SNIPPET_END: Hacl_Hash_Definitions_hash_t */
 
 #if defined(__cplusplus)
 }

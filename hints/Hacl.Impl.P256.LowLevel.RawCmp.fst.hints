@@ -12,7 +12,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "8045f793f122818e4294c927ae171c80"
+      "96c3a1b56b6f389a9f8760973da69806"
     ],
     [
       "Hacl.Impl.P256.LowLevel.RawCmp.eq_u8_nCT",
@@ -26,7 +26,7 @@
         "typing_Lib.RawIntTypes.u8_to_UInt8"
       ],
       0,
-      "2f52a8c42bc94aabda89c1553289d7ec"
+      "7b400d863aa982c36e70b9691e3a8653"
     ],
     [
       "Hacl.Impl.P256.LowLevel.RawCmp.eq_u64_nCT",
@@ -39,7 +39,7 @@
         "equation_Lib.IntTypes.unsigned", "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "c5ee59d02c98c1fb692f1cd171f88351"
+      "111946378a3ed249ab20f594b31fbc1b"
     ],
     [
       "Hacl.Impl.P256.LowLevel.RawCmp.eq_u64_nCT",
@@ -53,24 +53,11 @@
         "typing_Lib.RawIntTypes.u64_to_UInt64"
       ],
       0,
-      "dd9dcd8e47ca63e3fb3b1e1033e48533"
+      "8fd717abd684b7ab1ae48b3e28ac26c1"
     ],
     [
       "Hacl.Impl.P256.LowLevel.RawCmp.eq_0_u64",
       1,
-      2,
-      1,
-      [
-        "@query", "constructor_distinct_Lib.IntTypes.U64",
-        "equality_tok_Lib.IntTypes.U64@tok",
-        "equation_Lib.IntTypes.unsigned", "projection_inverse_BoxBool_proj_0"
-      ],
-      0,
-      "97cb345af592710b6d0420e60d93b4af"
-    ],
-    [
-      "Hacl.Impl.P256.LowLevel.RawCmp.eq_0_u64",
-      2,
       2,
       1,
       [
@@ -95,7 +82,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "bf78c474440d648b7f9ef323f1e0cb56"
+      "ab38641b4b6ce05f67d93477ad13fe48"
     ],
     [
       "Hacl.Impl.P256.LowLevel.RawCmp.unsafe_bool_of_u64",
@@ -119,7 +106,7 @@
         "typing_FStar.UInt64.v", "typing_Lib.RawIntTypes.u64_to_UInt64"
       ],
       0,
-      "7dcefc09185e670aac007be907d9d3f6"
+      "e6e9cf0b4358193cd7b06a53c8425391"
     ]
   ]
 ]

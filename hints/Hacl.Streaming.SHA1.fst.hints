@@ -22,7 +22,7 @@
         "typing_Spec.AES.gf8", "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "16d6e372a13ee9daf585c20cb4116b96"
+      "2f91e39e18a614142a97bd31c49f5be7"
     ],
     [
       "Hacl.Streaming.SHA1.state_t_sha1",
@@ -45,7 +45,7 @@
         "typing_Spec.AES.gf8", "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "929daf4926edbc9871e83d49acf48c05"
+      "e8ae2204f50d3f80c177da387360d40f"
     ],
     [
       "Hacl.Streaming.SHA1.state_sha1",
@@ -73,7 +73,7 @@
         "token_correspondence_Hacl.Streaming.Interface.__proj__Stateful__item__t"
       ],
       0,
-      "06106b3aee74fa371a14be579eb8da3f"
+      "a9074eee30c425fdef893e8cb4fc6614"
     ],
     [
       "Hacl.Streaming.SHA1.legacy_alloca_sha1",
@@ -101,7 +101,7 @@
         "token_correspondence_Hacl.Streaming.Interface.__proj__Stateful__item__t"
       ],
       0,
-      "3ed51c7132d335ad81bb24f1f83327fb"
+      "50cbdf0a4daeac29c65b113e7e9803a6"
     ],
     [
       "Hacl.Streaming.SHA1.legacy_create_in_sha1",
@@ -129,7 +129,7 @@
         "token_correspondence_Hacl.Streaming.Interface.__proj__Stateful__item__t"
       ],
       0,
-      "872b86e4483e0490033888486c6a1bdc"
+      "5e73f2c9a525cb89cdeaa76f113985d6"
     ],
     [
       "Hacl.Streaming.SHA1.legacy_init_sha1",
@@ -161,7 +161,7 @@
         "unit_typing"
       ],
       0,
-      "88d354754dbdb9eef4e6da8fff422dfe"
+      "a4e0a57f7109ce4e0b720f9ef49846bf"
     ],
     [
       "Hacl.Streaming.SHA1.legacy_update_sha1",
@@ -193,7 +193,7 @@
         "unit_typing"
       ],
       0,
-      "7b6d06ca3dd7cce3363f15713162eef2"
+      "f921b2f5ab3e3df8a0c216f1ff33989d"
     ],
     [
       "Hacl.Streaming.SHA1.legacy_finish_sha1",
@@ -221,7 +221,7 @@
         "token_correspondence_Hacl.Streaming.Interface.__proj__Stateful__item__t"
       ],
       0,
-      "424b3bc13473b93ffecf690d2c403710"
+      "be04996a286012f40485581b2f50de63"
     ],
     [
       "Hacl.Streaming.SHA1.legacy_free_sha1",
@@ -253,7 +253,7 @@
         "unit_typing"
       ],
       0,
-      "3cd142f00e78b8fe4ae3ea25020f64bc"
+      "809cfa62ca20db99d4a4d9105746700c"
     ]
   ]
 ]
